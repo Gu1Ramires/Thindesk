@@ -1,0 +1,21 @@
+{
+  "name": "thindesk-api",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "dev": "node --watch --disable-warning=ExperimentalWarning src/server.js",
+    "start": "node --disable-warning=ExperimentalWarning src/server.js",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.3.2",
+    "vitest": "^5.1.0"
+  }
+}
