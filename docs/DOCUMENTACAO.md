@@ -1,5 +1,7 @@
 # Thindesk - Documentação
 
+A versão completa nas normas da ABNT está em [Documentacao-Thindesk-ABNT.pdf](Documentacao-Thindesk-ABNT.pdf).
+
 Dashboard administrativo para acompanhar os chamados técnicos de uma rede de pizzarias. As lojas abrem chamados quando algo para de funcionar (caixa, impressora de pedidos, aplicativo de delivery, internet, equipamentos da cozinha) e o responsável usa o painel para ver o andamento, a situação dos chamados e o que mais dá problema.
 
 O sistema tem duas partes:
@@ -269,13 +271,13 @@ Erros: 400 sem autor ou com texto menor que 5 caracteres, 404 para chamado inexi
 
 | Branch | Uso |
 |---|---|
-| main | Versão final (tag v1.0.0) |
+| main | Versão final (tags v1.0.0 e v1.1.0) |
 | develop | Integração |
 | feature/banco | Criação do banco e dos dados de exemplo |
 | feature/api | Implementação da API com as rotas ligadas ao banco e os testes |
 | feature/dashboard | Dashboard em React |
 | feature/documentacao | Documentação e evidências |
-| release/1.0.0 | Fechamento da versão |
+| release/1.0.0 e release/1.1.0 | Fechamento das versões |
 
 ## 8. Como rodar
 
