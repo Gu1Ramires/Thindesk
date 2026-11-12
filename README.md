@@ -26,7 +26,8 @@ Para rodar os testes: `npm test`
 
 ## Documentação
 
-- [Documentação completa](docs/DOCUMENTACAO.md): requisitos, regras, endpoints e testes
+- [Documentação ABNT (PDF)](docs/Documentacao-Thindesk-ABNT.pdf) e [versão Word](docs/Documentacao-Thindesk-ABNT.docx)
+- [Documentação resumida](docs/DOCUMENTACAO.md): requisitos, regras, endpoints e testes
 - [Testes manuais](docs/evidencias/testes-manuais.md)
 - [Testes automatizados](docs/evidencias/testes-automatizados.txt)
 - [Vídeo de apresentação](docs/apresentacao.mp4)
